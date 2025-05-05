@@ -1,0 +1,3 @@
+# ignore all .txt files everywhere, including those with spaces
+*.txt
+**/*.txt
